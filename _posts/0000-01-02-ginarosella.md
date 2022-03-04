@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our meme page!"
 ---
-Your text
-Use the left arrow to go back!
+Never gonna give you up.
+Never gonna let you down.
